@@ -50,7 +50,7 @@ Pattern Recognition in Data
 How to Use This Repository:
 
 Download the Titanic dataset from Kaggle and place it in the /data folder.
-Open the Jupyter Notebook Data Exploratory Analysis On Titanic.ipynb and run each cell to perform data cleaning and EDA.
+Open the Jupyter Notebook Data Exploratory Titanic Dataset.ipynb and run each cell to perform data cleaning and EDA.
 Review the visualizations and insights generated to understand key patterns in the data.
 
 Results and Insights:
